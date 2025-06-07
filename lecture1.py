@@ -106,9 +106,9 @@ for letter in 'thebigblackhorse':
         continue
 print('Current Letter :', letter)
 
-for letter in 'the cutebluecat':
-    if letter == 'e' or letter == 's':
+for letters in 'sweetcutebluecat':
+    if letters == 'e' or letters == 's':
         break
-print('Current Letter :', letter)
+print('Current Letter :', letters)
 #there is no do while loop in python, it can made using conditional statements in while loop
 #YET TO STUDY IN LOOPS : List, Tuple, String, and Dictionary Iteration Using for Loops in Python
